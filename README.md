@@ -5,11 +5,11 @@
 
 how_many_people = 3
 
-Nom : 
+Nom :Penet 
 github : 
 
 Nom : Thibault Lambert
 github :
 
-Nom :
+Nom : Aymeric Cardot
 github :
