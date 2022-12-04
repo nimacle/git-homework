@@ -5,10 +5,10 @@
 
 how_many_people = 3
 
-Nom :
+Nom : 
 github : 
 
-Nom :
+Nom : Thibault Lambert
 github :
 
 Nom :
