@@ -6,7 +6,7 @@
 how_many_people = 3
 
 Nom :Penet 
-github : 
+github : Fibo72
 
 Nom : Thibault Lambert
 github :
