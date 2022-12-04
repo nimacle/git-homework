@@ -6,10 +6,10 @@
 how_many_people = 3
 
 Nom :
-Prenom : 
+github : 
 
 Nom :
-Prenom :
+github :
 
 Nom :
-Prenom :
+github :
