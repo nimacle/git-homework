@@ -12,4 +12,4 @@ Nom : Thibault Lambert
 github :
 
 Nom : Aymeric Cardot
-github :
+github : PatateCreuse
